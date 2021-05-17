@@ -10,7 +10,7 @@ Simple platformer game and level editor with pygame module.
 
 ![enter image description here](https://cdn.discordapp.com/attachments/797797010689753120/843817370619478046/unknown.png)
 
-# Level file preview
+# Level File Preview
 
     0 0 block0
     0 32 block0
