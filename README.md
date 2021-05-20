@@ -1,4 +1,4 @@
-# platformergamepygame
+# Pygame Platformer
 Simple platformer game and level editor with pygame module.
 
 # Game Preview
